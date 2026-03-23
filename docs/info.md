@@ -9,12 +9,14 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+A simple exercise with a code lock application using statemachines.
+Codes are hardcoded, in code_lock_fsm.
+The application allows three attempts, after which it locks until reset
 
 ## How to test
 
-Explain how to use your project
+First code is setup on inputs, and confirmed via enter button, the second code is setup and confirmed. Upon correct code, the lock output goes low.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Preferebly buttons and leds, but digilent analog discovery can also be used
