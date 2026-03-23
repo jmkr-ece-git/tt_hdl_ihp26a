@@ -41,9 +41,9 @@ pinout:
   uo[1]: ""
   uo[2]: ""
   uo[3]: "open lock output"
-  uo[4]: "debug output"
-  uo[5]: "debug output"
-  uo[6]: "debug output"
+  uo[4]: "debug output0"
+  uo[5]: "debug output1"
+  uo[6]: "debug output2"
   uo[7]: ""
 
   # Bidirectional pins
